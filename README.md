@@ -13,7 +13,6 @@ The system allows administrators to manage teachers, rooms, subjects, and sectio
 - **Jazzmin**: Modern, customizable admin interface for Django.
 - **Bootstrap**: Frontend framework for responsive design.
 - **AdminLTS**: Advanced dashboard template for easy administration.
-- **ReportLab**: Python library used for generating PDF reports.
 
 ## Setup Instructions
 
